@@ -1,0 +1,20 @@
+body{
+    margin: 20px;
+    padding: 0;
+    background: #eeeeee;
+    
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    background: #fff;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    box-shadow: 1px 1px rgba(0,0,0,0.1);
+    padding: 10px;
+}
