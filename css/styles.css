@@ -18,3 +18,17 @@ li{
     box-shadow: 1px 1px rgba(0,0,0,0.1);
     padding: 10px;
 }
+
+span{
+    color: #ccc;
+    display: block;
+    margin: 5px 0;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+p{
+    margin: 0;
+    font-size: 12px;
+    font-weight: normal;
+}
