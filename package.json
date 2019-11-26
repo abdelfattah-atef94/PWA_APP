@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "http-server -p 1336 build -c-1"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abdelfattah-atef94/PWA_APP/issues"
   },
-  "homepage": "https://github.com/abdelfattah-atef94/PWA_APP#readme"
+  "homepage": "https://github.com/abdelfattah-atef94/PWA_APP#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
 }
